@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/87910852/218327715-049daf69-ea5b-4387-88aa-4e6c817a3310.png)
+
 ---
 title: AI Trade Bot Demo
 emoji: 💩
