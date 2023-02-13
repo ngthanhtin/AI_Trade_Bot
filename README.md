@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/87910852/218327715-049daf69-ea5b-4387-88aa-4e6c817a3310.png)
-https://devpost.com/software/ai-trade-bot-atb#updates
 
 # Inspiration
 This project aims to build an AI model because a user might spend a lot more time pouring over the stock market. This bot can do a bunch of cool things that help get information to make better trades.
