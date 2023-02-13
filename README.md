@@ -14,7 +14,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 # AI Trade Bot
 
-![Image]([Dragster.jpg](https://github.com/ngthanhtin/AI_Trade_Bot/blob/master/image.png?raw=true)
+![Image](https://github.com/ngthanhtin/AI_Trade_Bot/blob/master/image.png?raw=true)
 
 
 
