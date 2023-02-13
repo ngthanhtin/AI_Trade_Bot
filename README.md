@@ -13,7 +13,8 @@ license: apache-2.0
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # AI Trade Bot
-![Drag Racing]([Dragster.jpg](https://github.com/ngthanhtin/AI_Trade_Bot/blob/master/image.png?raw=true)
+
+![Image]([Dragster.jpg](https://github.com/ngthanhtin/AI_Trade_Bot/blob/master/image.png?raw=true)
 
 
 
